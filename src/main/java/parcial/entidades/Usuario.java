@@ -26,6 +26,9 @@ public class Usuario {
 		this.sexo = sexo;
 		this.estadoCivil = estadoCivil;
 	}
+	
+	
+	
 
 	public Long getIdentificacion() {
 		return identificacion;
